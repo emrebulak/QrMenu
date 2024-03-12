@@ -8,6 +8,7 @@ Bu proje, HTML, CSS ve JS kullanılarak geliştirilmiş Qr Menu temasıdır. Tem
 
 - HTML
 - CSS
+- BOOTSTRAP
 - JS
 
 # QR MENU Project (EN)
@@ -18,4 +19,5 @@ This project is Qr Menu theme developed using HTML, CSS and Js. The theme has an
 
 - HTML
 - CSS
+- BOOTSTRAP
 - JS
